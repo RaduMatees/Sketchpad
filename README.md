@@ -1,1 +1,1 @@
-# Sketchpad
+Sketchpad Project using JQuery
